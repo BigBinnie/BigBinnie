@@ -1,11 +1,16 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=BigBinnie&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 
 ### Hi there 👋
 
 - 🤔 rookie
-- ✨ I’m currently working on dialogue system
-- 🌱 I'm planning for a gap year 
+- ✨ Currently working on dialogue system
+- 🌱 Planning for a gap year 
 
+
+[![BigBinnie's github stats](https://i-github-readme-stats.vercel.app/api?username=bigbinnie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Top Langs](https://i-github-readme-stats.vercel.app/api/top-langs/?username=bigbinnie&layout=compact&hide=assembly,html&langs_count=8&card_width=445)
 <!--
 **BigBinnie/BigBinnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
