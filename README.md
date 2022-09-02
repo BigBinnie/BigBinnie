@@ -4,7 +4,7 @@
 
 - 🌚 Have nothing done but have fun
 - 🤖 Work on the dialogue system currently
-- 🐰 Plan for a gap year
+- 🐰 Be in a gap year
 
 
 [![BigBinnie's github stats](https://i-github-readme-stats.vercel.app/api?username=bigbinnie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
