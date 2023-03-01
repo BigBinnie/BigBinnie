@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🌚 Have nothing done but have fun
+- 🌝 Have nothing done but have fun
 - 🤖 Work on the dialogue system currently
 - 🐰 Be in a gap year
 
